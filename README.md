@@ -1,7 +1,7 @@
 
-name: N. Anselm
-title: FDMGitFoo 
-date: 2023-12-01 + 2023-12-15
+name: N. Anselm  
+title: FDMGitFoo  
+date: 2023-12-01 + 2023-12-15  
 
 
 # jetzt mit headline und datum 2023-12-01
